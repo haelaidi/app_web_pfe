@@ -6,42 +6,51 @@
     <!-- - -->
     <ul class="menu-sidebar p-t-95 p-b-70">
         <li class="t-center m-b-13">
-            <a href="index.php" class="txt19">Home</a>
+            <a href="index.php" class="txt19">Accueil</a>
         </li>
 
         <li class="t-center m-b-13">
-            <a href="pages/menu.php" class="txt19">Menu</a>
+            <a href="menu.php" class="txt19">Menu</a>
         </li>
 
         <li class="t-center m-b-13">
-            <a href="pages/gallery.php" class="txt19">Gallery</a>
+            <a href="gallery.php" class="txt19">Galerie</a>
         </li>
 
         <li class="t-center m-b-13">
-            <a href="pages/about.php" class="txt19">About</a>
-        </li>
-
-        <li class="t-center m-b-13">
-            <a href="pages/blog.php" class="txt19">Blog</a>
+            <a href="about.php" class="txt19">À propos</a>
         </li>
 
         <li class="t-center m-b-33">
-            <a href="pages/contact.php" class="txt19">Contact</a>
+            <a href="contact.php" class="txt19">Contactez-nous</a>
         </li>
 
         <li class="t-center">
             <!-- Button3 -->
-            <a href="pages/reservation.php" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
+            <a href="reservation.php" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
                 Reservation
             </a>
         </li>
     </ul>
 
+    <div>
+        <div class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
+            <a href="login.php" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
+                Se connecter
+            </a>
+            <a href="singup.php" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
+                inscription
+            </a>
+        </div>
+    </div>
+
+    <br>
+
     <!-- - -->
     <div class="gallery-sidebar t-center p-l-60 p-r-60 p-b-40">
         <!-- - -->
         <h4 class="txt20 m-b-33">
-            Gallery
+            Galerie
         </h4>
 
         <!-- Gallery -->

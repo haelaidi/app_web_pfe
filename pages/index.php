@@ -8,7 +8,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Home</title>
+    <title>Accueil</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
@@ -54,7 +54,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
                 <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 txt1 t-center animated visible-false m-b-15"
                               data-appear="fadeInDown">
-							Welcome to
+							Bienvenue à
 						</span>
 
                     <h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
@@ -64,7 +64,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
                     <div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
                         <!-- Button1 -->
                         <a href="menu.php" class="btn1 flex-c-m size1 txt3 trans-0-4">
-                            Look Menu
+                            Menu Look
                         </a>
                     </div>
                 </div>
@@ -73,7 +73,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
             <div class="item-slick1 item2-slick1" style="background-image: url(../asset/images/master-slides-02.jpg);">
                 <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 txt1 t-center animated visible-false m-b-15" data-appear="rollIn">
-							Welcome to
+							Bienvenue à
 						</span>
 
                     <h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
@@ -83,7 +83,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
                     <div class="wrap-btn-slide1 animated visible-false" data-appear="slideInUp">
                         <!-- Button1 -->
                         <a href="menu.php" class="btn1 flex-c-m size1 txt3 trans-0-4">
-                            Look Menu
+                            Menu Look
                         </a>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
                 <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
 						<span class="caption1-slide1 txt1 t-center animated visible-false m-b-15"
                               data-appear="rotateInDownLeft">
-							Welcome to
+							Bienvenue à
 						</span>
 
                     <h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37"
@@ -104,7 +104,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
                     <div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
                         <!-- Button1 -->
                         <a href="menu.php" class="btn1 flex-c-m size1 txt3 trans-0-4">
-                            Look Menu
+                            Menu Look
                         </a>
                     </div>
                 </div>
@@ -123,11 +123,11 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
             <div class="col-md-6 p-t-45 p-b-30">
                 <div class="wrap-text-welcome t-center">
 						<span class="tit2 t-center">
-							Italian Restaurant
+							Restaurant Marocaine
 						</span>
 
                     <h3 class="tit3 t-center m-b-35 m-t-5">
-                        Welcome
+                        Bienvenue
                     </h3>
 
                     <p class="t-center m-b-22 size3 m-l-r-auto">
@@ -156,7 +156,7 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
     <div class="header-intro parallax100 t-center p-t-135 p-b-158"
          style="background-image: url(../asset/images/bg-intro-01.jpg);">
 			<span class="tit2 p-l-15 p-r-15">
-				Discover
+				Découvrir
 			</span>
 
         <h3 class="tit4 t-center p-l-15 p-r-15 p-t-3">
@@ -994,21 +994,14 @@ $list = $dbcnx->selectQuery(REQ_TYPE_ITEM);
 
 <!-- Sign up -->
 <div class="section-signup bg1-pattern p-t-85 p-b-85">
-    <form class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
-			<span class="txt5 m-10">
-				Specials Sign up
-			</span>
-
-        <div class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
-            <input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email-address" placeholder="Email Adrress">
-            <i class="fa fa-envelope ab-r-m m-r-18" aria-hidden="true"></i>
-        </div>
-
-        <!-- Button3 -->
-        <button type="submit" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
-            Sign-up
-        </button>
-    </form>
+    <div class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
+        <a href="login.php" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
+            Se connecter
+        </a>
+        <a href="singup.php" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
+            inscription
+        </a>
+    </div>
 </div>
 
 

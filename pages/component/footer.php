@@ -5,18 +5,18 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-33">
-                    Contact Us
+                    Contactez-nous
                 </h4>
 
                 <ul class="m-b-70">
                     <li class="txt14 m-b-14">
                         <i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-                        8th floor, 379 Hudson St, New York, NY 10018
+                        81000 Guelmim, Maroc
                     </li>
 
                     <li class="txt14 m-b-14">
                         <i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-                        (+1) 96 716 6879
+                        (+212) 5 01 21 32 90
                     </li>
 
                     <li class="txt14 m-b-14">
@@ -27,7 +27,7 @@
 
                 <!-- - -->
                 <h4 class="txt13 m-b-32">
-                    Opening Times
+                    Horaires d'ouverture
                 </h4>
 
                 <ul>
@@ -36,7 +36,7 @@
                     </li>
 
                     <li class="txt14">
-                        Every Day
+                        Tous les jours
                     </li>
                 </ul>
             </div>
@@ -44,7 +44,7 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-33">
-                    Latest twitter
+                    Dernier sur twitter
                 </h4>
 
                 <div class="m-b-25">
@@ -64,7 +64,7 @@
                     </p>
 
                     <span class="txt16">
-							21 Dec 2017
+							21 Janv 2021
 						</span>
                 </div>
 
@@ -84,7 +84,7 @@
                     </p>
 
                     <span class="txt16">
-							21 Dec 2017
+							21 Mars 2021
 						</span>
                 </div>
             </div>
@@ -92,7 +92,7 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-38">
-                    Gallery
+                    Galerie
                 </h4>
 
                 <!-- Gallery footer -->
@@ -166,7 +166,7 @@
         <div class="container">
             <div class="flex-sb-m flex-w p-t-22 p-b-22">
                 <div class="p-t-5 p-b-5">
-                    <a href="#" class="fs-15 c-white"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
+                    <a href="#" class="fs-15 c-white"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                     <a href="#" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
                     <a href="#" class="fs-15 c-white"><i class="fa fa-twitter m-l-18" aria-hidden="true"></i></a>
                 </div>

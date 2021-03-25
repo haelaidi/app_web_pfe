@@ -16,7 +16,7 @@
                     <nav class="menu">
                         <ul class="main_menu">
                             <li>
-                                <a href="index.php">Home</a>
+                                <a href="index.php">Accueil</a>
                             </li>
 
                             <li>
@@ -28,19 +28,15 @@
                             </li>
 
                             <li>
-                                <a href="gallery.php">Gallery</a>
+                                <a href="gallery.php">Galerie</a>
                             </li>
 
                             <li>
-                                <a href="about.php">About</a>
+                                <a href="about.php">À propos</a>
                             </li>
 
                             <li>
-                                <a href="blog.php">Blog</a>
-                            </li>
-
-                            <li>
-                                <a href="contact.php">Contact</a>
+                                <a href="contact.php">Contactez-nous</a>
                             </li>
                         </ul>
                     </nav>
@@ -48,7 +44,7 @@
 
                 <!-- Social -->
                 <div class="social flex-w flex-l-m p-r-20">
-                    <a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-facebook m-l-21" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-twitter m-l-21" aria-hidden="true"></i></a>
 

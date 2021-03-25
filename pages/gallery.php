@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Gallery</title>
+	<title>Galerie</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -45,7 +45,7 @@
 	<!-- Title Page -->
 	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(../asset/images/bg-title-page-02.jpg);">
 		<h2 class="tit6 t-center">
-			Gallery
+            Galerie
 		</h2>
 	</section>
 
@@ -55,24 +55,24 @@
 	<div class="section-gallery p-t-118 p-b-100">
 		<div class="wrap-label-gallery filter-tope-group size27 flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
 			<button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
-				All Photo
-			</button>
+                Toutes les photos
+            </button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".interior">
-				Interior
-			</button>
+                Intérieure
+            </button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".food">
-				Food
-			</button>
+                Aliments
+            </button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".events">
-				Events
-			</button>
+                Événements
+            </button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".guests">
-				Vip guests
-			</button>
+                Invités VIP
+            </button>
 		</div>
 
 		<div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">

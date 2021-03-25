@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Contact</title>
+	<title>Contactez-nous</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -45,7 +45,7 @@
 	<!-- Title Page -->
 	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(../asset/images/bg-title-page-02.jpg);">
 		<h2 class="tit6 t-center">
-			Contact
+            Contactez-nous
 		</h2>
 	</section>
 
@@ -62,19 +62,19 @@
 
 		<div class="container">
 			<h3 class="tit7 t-center p-b-62 p-t-105">
-				Send us a Message
-			</h3>
+                Envoie-nous un message
+            </h3>
 
 			<form class="wrap-form-reservation size22 m-l-r-auto">
 				<div class="row">
 					<div class="col-md-4">
 						<!-- Name -->
 						<span class="txt9">
-							Name
+							Nom
 						</span>
 
 						<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Name">
+							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Nomm">
 						</div>
 					</div>
 
@@ -92,11 +92,11 @@
 					<div class="col-md-4">
 						<!-- Phone -->
 						<span class="txt9">
-							Phone
+							N° Téléphone
 						</span>
 
 						<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="Phone">
+							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="N° Téléphone">
 						</div>
 					</div>
 
@@ -112,7 +112,7 @@
 				<div class="wrap-btn-booking flex-c-m m-t-13">
 					<!-- Button3 -->
 					<button type="submit" class="btn3 flex-c-m size36 txt11 trans-0-4">
-						Submit
+						Envoyer
 					</button>
 				</div>
 			</form>
@@ -126,7 +126,7 @@
 
 						<div class="flex-col-l">
 							<span class="txt5 p-b-10">
-								Location
+								Lieu
 							</span>
 
 							<span class="txt23 size38">
@@ -145,11 +145,11 @@
 
 						<div class="flex-col-l">
 							<span class="txt5 p-b-10">
-								Call Us
+								Appelez-nous
 							</span>
 
 							<span class="txt23 size38">
-								(+1) 96 716 6879
+								(+212) 5 01 12 34 45
 							</span>
 						</div>
 					</div>
@@ -164,7 +164,7 @@
 
 						<div class="flex-col-l">
 							<span class="txt5 p-b-10">
-								Opening Hours
+								Horaires d'ouvertures
 							</span>
 
 							<span class="txt23 size38">
